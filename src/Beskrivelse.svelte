@@ -4,7 +4,7 @@
 </script>
 
 <style>
-    h2,
+    h3,
     p {
         max-width: 30ch;
         padding: 0 1rem;
@@ -15,7 +15,7 @@
 </style>
 
 <div>
-    <h2>{tittel}</h2>
+    <h3>{tittel}</h3>
 
     {#if beskrivelse}
         <p>{beskrivelse}</p>

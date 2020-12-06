@@ -45,8 +45,8 @@
 </style>
 
 <svg
-    width="192"
-    height="115"
+    width="90%"
+    height="90%"
     viewBox="0 0 192 115"
     fill="none"
     xmlns="http://www.w3.org/2000/svg">

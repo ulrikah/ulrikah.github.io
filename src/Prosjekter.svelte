@@ -16,37 +16,28 @@
         border-right: 1px solid black;
         width: 90%;
     }
+
+    p {
+        margin: 0 auto;
+        padding: 1rem;
+    }
 </style>
 
 <main>
     <Row>
+        <p>
+            Below are some of the projects that I've worked on the last couple
+            of years
+        </p>
+    </Row>
+    <Row>
         <Link href="https://github.com/ulrikah/peers">
             <Beskrivelse
                 tittel={'Peers'}
-                beskrivelse={'Peer-to-peer voice and video communication based on WebRTC'} />
+                beskrivelse={'Platform for peer-to-peer voice and video communication'} />
         </Link>
         <Link href="https://github.com/ulrikah/peers">
             <Peers />
-        </Link>
-    </Row>
-    <Row>
-        <Link href="https://github.com/ulrikah/rave">
-            <Star />
-        </Link>
-        <Link href="https://github.com/ulrikah/rave">
-            <Beskrivelse
-                tittel={'Rave'}
-                beskrivelse={'Training musical agents with reinforcement learning'} />
-        </Link>
-    </Row>
-    <Row>
-        <Link href="https://github.com/ulrikah/morph">
-            <Beskrivelse
-                tittel={'Morphing'}
-                beskrivelse={'Experiments with morphogenesis'} />
-        </Link>
-        <Link href="https://github.com/ulrikah/morph">
-            <Portal />
         </Link>
     </Row>
     <Row>
@@ -56,7 +47,27 @@
         <Link href="https://github.com/ulrikah/blank">
             <Beskrivelse
                 tittel={'Blank'}
-                beskrivelse={'Exploration of music in virtual reality'} />
+                beskrivelse={'Exploration of musical interactions in virtual reality. This project was developed as part of a scholarship that I received from Blank'} />
+        </Link>
+    </Row>
+    <Row>
+        <Link href="https://github.com/ulrikah/morph">
+            <Beskrivelse
+                tittel={'Morph'}
+                beskrivelse={'Experiments with morphogenesis'} />
+        </Link>
+        <Link href="https://github.com/ulrikah/morph">
+            <Portal />
+        </Link>
+    </Row>
+    <Row>
+        <Link href="https://github.com/ulrikah/rave">
+            <Star />
+        </Link>
+        <Link href="https://github.com/ulrikah/rave">
+            <Beskrivelse
+                tittel={'Rave'}
+                beskrivelse={'Musical agents and reinforcement learning'} />
         </Link>
     </Row>
 </main>
