@@ -28,35 +28,35 @@
         </Link>
     </Row>
     <Row>
-        <Link href="https://github.com/ulrikah/blank">
-            <Blank />
-        </Link>
-        <Link href="https://github.com/ulrikah/blank">
-            <Beskrivelse
-                tittel={"Blank"}
-                beskrivelse={"Exploration of musical interactions in virtual reality. This project was developed as part of a scholarship that I received from Blank"}
-            />
-        </Link>
-    </Row>
-    <Row>
-        <Link href="https://github.com/ulrikah/morph">
-            <Beskrivelse
-                tittel={"Morph"}
-                beskrivelse={"Experiments with morphogenesis"}
-            />
-        </Link>
-        <Link href="https://github.com/ulrikah/morph">
-            <Portal />
-        </Link>
-    </Row>
-    <Row>
         <Link href="https://github.com/ulrikah/rave">
             <Star />
         </Link>
         <Link href="https://github.com/ulrikah/rave">
             <Beskrivelse
                 tittel={"Rave"}
-                beskrivelse={"Musical agents and reinforcement learning"}
+                beskrivelse={"Adaptive audio processing with reinforcement learning"}
+            />
+        </Link>
+    </Row>
+    <Row>
+        <Link href="https://github.com/ulrikah/blank">
+            <Beskrivelse
+                tittel={"Blank"}
+                beskrivelse={"Exploration of musical interactions in virtual reality. This project was developed as part of a scholarship that I received from Blank"}
+            />
+        </Link>
+        <Link href="https://github.com/ulrikah/blank">
+            <Blank />
+        </Link>
+    </Row>
+    <Row>
+        <Link href="https://github.com/ulrikah/morph">
+            <Portal />
+        </Link>
+        <Link href="https://github.com/ulrikah/morph">
+            <Beskrivelse
+                tittel={"Morph"}
+                beskrivelse={"Experiments with morphogenesis"}
             />
         </Link>
     </Row>
