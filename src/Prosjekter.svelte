@@ -53,10 +53,10 @@
         </Link>
     </Row>
     <Row>
-        <Link href="https://github.com/ulrikah/morph">
+        <Link href="https://ulrikah.no/morph">
             <Portal />
         </Link>
-        <Link href="https://github.com/ulrikah/morph">
+        <Link href="https://ulrikah.no/morph">
             <Beskrivelse
                 tittel={"Morph"}
                 beskrivelse={"Experiments with morphogenesis"}
