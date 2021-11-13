@@ -11,10 +11,7 @@
 
 <main>
     <Row>
-        <p>
-            Below are some of the projects that I've worked on the last couple
-            of years
-        </p>
+        <p>Some projects that I've worked on the last couple of years</p>
     </Row>
     <Row>
         <Link href="https://github.com/ulrikah/peers">
@@ -39,13 +36,17 @@
         </Link>
     </Row>
     <Row>
-        <Link href="https://github.com/ulrikah/blank">
+        <Link
+            href="https://blogg.blank.no/interaktive-musikkopplevelser-i-vr-36ceb2f9b9b7"
+        >
             <Beskrivelse
                 tittel={"Blank"}
                 beskrivelse={"Exploration of musical interactions in virtual reality. This project was developed as part of a scholarship that I received from Blank"}
             />
         </Link>
-        <Link href="https://github.com/ulrikah/blank">
+        <Link
+            href="https://blogg.blank.no/interaktive-musikkopplevelser-i-vr-36ceb2f9b9b7"
+        >
             <Blank />
         </Link>
     </Row>
