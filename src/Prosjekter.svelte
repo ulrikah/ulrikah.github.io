@@ -11,16 +11,18 @@
 
 <main>
     <Row>
-        <p>Some projects that I've worked on the last couple of years</p>
+        <p>
+            These are some projects that I've worked on the last couple of years
+        </p>
     </Row>
     <Row>
-        <Link href="https://github.com/ulrikah/peers">
+        <Link href="/posts/peers">
             <Beskrivelse
                 tittel={"Peers"}
                 beskrivelse={"Platform for peer-to-peer voice and video communication"}
             />
         </Link>
-        <Link href="https://github.com/ulrikah/peers">
+        <Link href="/posts/peers">
             <Peers />
         </Link>
     </Row>

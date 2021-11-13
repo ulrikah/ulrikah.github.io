@@ -1,3 +1,7 @@
+<div class="flex-item">
+    <slot />
+</div>
+
 <style>
     .flex-item {
         display: flex;
@@ -14,7 +18,3 @@
         }
     }
 </style>
-
-<div class="flex-item">
-    <slot />
-</div>
