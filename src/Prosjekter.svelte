@@ -12,7 +12,7 @@
 <main>
     <Row>
         <p>
-            These are some projects that I've worked on the last couple of years
+            Here are some projects I've worked on the last couple of years
         </p>
     </Row>
     <Row>
