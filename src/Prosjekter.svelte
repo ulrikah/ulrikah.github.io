@@ -64,13 +64,13 @@
         </Link>
     </Row>
     <Row>
-        <Link href="https://ulrikah.no/tegne">
+        <Link href="https://ulrikah.no/waveform">
             <Beskrivelse
                 tittel={"Bølger"}
                 beskrivelse={"Drawable, audible waveforms in the browser"}
             />
         </Link>
-        <Link href="https://ulrikah.no/tegne">
+        <Link href="https://ulrikah.no/waveform">
             <Wave />
         </Link>
     </Row>
