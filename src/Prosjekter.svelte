@@ -23,7 +23,7 @@
         <Link href="https://github.com/ulrikah/tape">
             <Beskrivelse
                 tittel={"Tape"}
-                beskrivelse={"Tools, scripts and scores for musicking in TidalCycles and sox"}
+                beskrivelse={"Tools, scripts and scores for musicking"}
             />
         </Link>
     </Row>
