@@ -7,6 +7,7 @@
     import Link from "./Link.svelte";
     import Beskrivelse from "./Beskrivelse.svelte";
     import Wave from "./Wave.svelte";
+    import Swonk from "./Swonk.svelte";
 </script>
 
 <main>
@@ -14,6 +15,17 @@
         <p>
             A collection of some of my computer fantasies from the last years
         </p>
+    </Row>
+    <Row>
+        <Link href="https://github.com/ulrikah/tape">
+            <Swonk />
+        </Link>
+        <Link href="https://github.com/ulrikah/tape">
+            <Beskrivelse
+                tittel={"Tape"}
+                beskrivelse={"Tools, scripts and scores for musicking in TidalCycles and sox"}
+            />
+        </Link>
     </Row>
     <Row>
         <Link href="/posts/peers">
