@@ -13,8 +13,10 @@ body {
 
     background-size: 25px 25px;
     background-image: 
-        /* DOTS */
+        /* DOTS 
+        
         radial-gradient(circle, #80808026 1px, rgba(0, 0, 0, 0) 1px);
+        */
         
         /* GRID
         
